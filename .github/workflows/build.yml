@@ -5,3 +5,4 @@ on: [push]
 jobs:
   build:
     uses: geode-sdk/build-geode-mod/.github/workflows/build.yml@main
+    secrets: inherit
