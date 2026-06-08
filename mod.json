@@ -1,0 +1,12 @@
+{
+    "geode": "3.0.0",
+    "gd": {
+        "win": "2.2074",
+        "android": "2.2074"
+    },
+    "id": "AuroraSHADE.menu-layout-editor",
+    "name": "Menu Layout Editor",
+    "version": "1.0.0",
+    "developer": "AuroraSHADE",
+    "description": "Drag and rearrange main menu buttons, save layout permanently."
+}
